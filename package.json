@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0",
+    "restify": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/webtruster/api.git"
+  },
+  "author": "Fox Reymann Ltd",
+  "license": "SEE LICENSE IN license.md",
+  "bugs": {
+    "url": "https://gitlab.com/webtruster/api/issues"
+  },
+  "homepage": "https://gitlab.com/webtruster/api#README"
+}
